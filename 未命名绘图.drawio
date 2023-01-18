@@ -1,65 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T08:05:55.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" etag="H50t7A3aNQypQtDFwd78" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T08:40:35.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" etag="fUVGb91L_dwyZlCrIIr4" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-3">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-2">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-0" target="rdvRxlGefyYG0TBDVbnE-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-0" value="掌握技术支持岗必备技能和团队协作能力以及沟通交流水平" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-0" value="掌握技术支持岗必备技能和团队协作能力以及沟通交流水平" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="353" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-1" target="rdvRxlGefyYG0TBDVbnE-15">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-1" target="rdvRxlGefyYG0TBDVbnE-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-1" target="rdvRxlGefyYG0TBDVbnE-16">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-1" target="rdvRxlGefyYG0TBDVbnE-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-1" value="团队协作能力提升" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-1" value="团队协作能力提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="352.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-2" target="rdvRxlGefyYG0TBDVbnE-19">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-2" target="rdvRxlGefyYG0TBDVbnE-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-2" target="rdvRxlGefyYG0TBDVbnE-21">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-2" target="rdvRxlGefyYG0TBDVbnE-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-2" value="沟通交流水平提升" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-2" value="沟通交流水平提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-3" target="rdvRxlGefyYG0TBDVbnE-12">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-3" target="rdvRxlGefyYG0TBDVbnE-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-3" target="rdvRxlGefyYG0TBDVbnE-11">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-3" target="rdvRxlGefyYG0TBDVbnE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-3" value="岗位必备技能提升" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-3" value="岗位必备技能提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-11" value="掌握esp系统功能流程和api对接客户细则已基本掌握,对日常业务问题排查过程也基本熟悉,能快速定位和分析问题并解决" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-11" value="掌握esp系统功能流程和api对接客户细则已基本掌握,对日常业务问题排查过程也基本熟悉,能快速定位和分析问题并解决" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="470" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-12" value="待优化点如缺乏对表面问题的深入分析,以及对各个定制客户业务的深入理解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oKNvE194_JeaMiCw811E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-12" target="oKNvE194_JeaMiCw811E-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-12" target="oKNvE194_JeaMiCw811E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-12" value="待优化点如缺乏对表面问题的深入分析,以及对各个定制客户业务的深入理解" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="470" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-15" value="日常工作中能团结同事,再具体工作内容中能协同各部门完成领导安排的任务和遇到的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-15" value="日常工作中能团结同事,再具体工作内容中能协同各部门完成领导安排的任务和遇到的问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="470" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-16" value="待优化点如对于其他业务部门的了解还不够,对于疑难问题的快速拉齐能力还需要多锻炼,多与各部门同事沟通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oKNvE194_JeaMiCw811E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-16" target="oKNvE194_JeaMiCw811E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-16" value="待优化点如对于其他业务部门的了解还不够,对于疑难问题的快速拉齐能力还需要多锻炼,多与各部门同事沟通" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="470" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-19" value="日常工作中能够友好和谐与客户同事交流,对于问题分析和疑问的解答也能精准沟通快速定位问题并解决" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-19" value="日常工作中能够友好和谐与客户同事交流,对于问题分析和疑问的解答也能精准沟通快速定位问题并解决" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="470" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rdvRxlGefyYG0TBDVbnE-21" value="待优化点如有时处理问题思路不够清晰,使得开展工作起来比较被动;工作开展中也还需要修正定位,从被动交流到主动协助" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oKNvE194_JeaMiCw811E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdvRxlGefyYG0TBDVbnE-21" target="oKNvE194_JeaMiCw811E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdvRxlGefyYG0TBDVbnE-21" value="待优化点如有时处理问题思路不够清晰,使得开展工作起来比较被动;工作开展中也还需要修正定位,从被动交流到主动协助" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="470" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-0" value="对于个人专业能力方面建设,加强业务及专业技能的学习,工作中要学会多思考,学习优秀同事的工作方式,吸收成为自己的实力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="700" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-2" value="对于个人管理能力方面建设,在项目中要提升责任心,提高日常服务质量,响应公司的价值观,为成就客户全力以赴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="261" y="700" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-4" value="对于团队协作能力方面建设,日常工作中要积极与其他小组进行工作交流,打破惯性思维,在工作中要提升大局观,实现共赢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="700" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-10" value="对于个人交流表达能力方面建设,还需要有敢于说话的勇气,在工作中自信,大胆,积极,主动的多与他人沟通交流,创造和谐交流的工作氛围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="700" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-12" value="已掌握情况和待优化点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKNvE194_JeaMiCw811E-13" value="待优化点后续改进方案拆解" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="630" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
